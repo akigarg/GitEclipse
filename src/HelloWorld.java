@@ -6,5 +6,6 @@ public class HelloWorld {
 		System.out.println("New line after reverting.");
 		System.err.println("Error message goes here.");
 		System.out.println("New message in feature branch");
+		System.out.println("More changes in feature branch");
 	}
 }
