@@ -4,5 +4,6 @@ public class HelloWorld {
 		System.out.println("Hello New Git World!!!");
 		System.out.println("Some Crazy Local Change...");
 		System.out.println("New line after reverting.");
+		System.err.println("Error message goes here.");
 	}
 }
